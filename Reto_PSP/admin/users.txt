@@ -1,0 +1,4 @@
+admin:admin:admin:admin@gmail.com:69696969:$2a$10$kg5KBpXw5Y9OlDt0UMKsqOnOqYWpRVjsSmmX8s0kXBI6pFhf9mCUi:0
+nico2:nicolas:nico2@gmail.com:guerra:22222222222222:$2a$10$QHdamAq6JgOg2JZja5dwRe3jrFTngKNS0Y1huNM.ddsV/4tmf/YLe:20
+nico3:nicolas:nico3@gmail.com:guerra:33333333333333:$2a$10$3J7kBP49eQL.GeCVaXzhe.YlhvnuoBO9DPUtls7kNojnr/HGk2.4W:0
+ger:gerard:ger@gmail.com:guerra:6666666666:$2a$10$6IZjTUGVtrddeEpzOOxiqOzV3hHbBnwwd1d6xQwwFsZcys61uT1gO:0
